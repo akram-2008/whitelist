@@ -5,3 +5,4 @@ es.educaplay.com
 kahoot.it
 kahoot.com
 blooket.com
+youtube.com
