@@ -1,5 +1,5 @@
 # Para desblockear un sitio web completo pone el dominio ej: scratch.mit.edu .
-# Para desblockear una pagina web 
+# Para desblockear una pagina web pone enlane o link ej: https://sites.google.com/classroom.center/view-4/
 scratch.mit.edu
 es.educaplay.com
 kahoot.it
