@@ -16,3 +16,6 @@ docs.google.com
 drive.google.com
 classroom.google.com
 blinklearning.com
+es.blinklearning.com
+santillana.es
+av.santillana.es
