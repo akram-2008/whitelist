@@ -12,6 +12,7 @@ app.burlingtonenglish.com
 burlingtonenglish.com
 edebe.com
 epe.edebe.com
+plus.edebe.com
 docs.google.com
 drive.google.com
 classroom.google.com
