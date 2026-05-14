@@ -19,3 +19,4 @@ blinklearning.com
 es.blinklearning.com
 santillana.es
 av.santillana.es
+mail.google.com
