@@ -2,7 +2,7 @@
 # Para desblockear una pagina web pone enlane o link ej: https://sites.google.com/classroom.center/view-4/
 # Para comentar tienes que añadir # al principio
 # Maximo son 200 lineas y importante!!! no poner google.com porque desbloquea todas las paginas de juegos de google site
-# si quieres desblockear todos los subdominios tienes que poner el dominio como burlingtonenglish.com 
+# si quieres desblockear todos los subdominios tienes que poner el dominio como burlingtonenglish.com
 scratch.mit.edu
 es.educaplay.com
 kahoot.it
@@ -105,9 +105,6 @@ desmos.com
 scholar.google.es
 gutenberg.org
 bne.es
-moodle.org
-intef.es
-agregareduteka.es
 additioapp.com
 alexiaeducacion.com
 s3.amazonaws.com
@@ -127,7 +124,6 @@ qwant.com
 startpage.com
 bing.com
 search.brave.com
-scholar.google.es
 scholar.google.com
 base-search.net
 refseek.com
