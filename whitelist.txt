@@ -110,3 +110,7 @@ agregareduteka.es
 additioapp.com
 alexiaeducacion.com
 s3.amazonaws.com
+vimeocdn.com
+cloudinary.com
+googlevideo.com
+google-analytics.com
