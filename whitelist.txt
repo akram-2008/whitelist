@@ -31,3 +31,4 @@ moodle.org
 elearning5.hezkuntza.net
 euskadi.eus
 rtve.es
+ikasgunea.euskadi.eus
