@@ -114,3 +114,8 @@ vimeocdn.com
 cloudinary.com
 googlevideo.com
 google-analytics.com
+static.oxfordlearnersbookshelf.com
+cdn.blinklearning.com
+media.pearsoncmg.com
+ajax.googleapis.com
+connect.facebook.net
