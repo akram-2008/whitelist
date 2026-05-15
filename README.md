@@ -24,7 +24,7 @@ Para desplegar EduMonitor en todos los Chromebooks del centro educativo:
    - Haz clic en **Añadir > Añadir desde el ID de la extensión**.
    - ID: `afpmpjemhekncdidgjpcobbibnfpelkn`
    - En **Política de instalación**: selecciona **Forzar instalación**.
-   - En **URL de actualización**: introduce la URL donde alojaste `update.xml` (ej. `https://tudominio.com/update.xml`).
+   - En **URL de actualización**: introduce la URL donde alojaste `update.xml` (ej. `https://raw.githubusercontent.com/akram-2008/whitelist/refs/heads/main/update.xml`).
 3. **Permisos:** la extensión necesita permisos sobre `<all_urls>` para analizar el contenido. Se aceptan automáticamente al ser forzada desde la consola de administración.
 
 ---
