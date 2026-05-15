@@ -136,3 +136,4 @@ creativecommons.org
 search.creativecommons.org
 jakinbai.eus
 softkataloa.eus
+https://www.google.com/maps/
