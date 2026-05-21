@@ -108,7 +108,6 @@ gutenberg.org
 bne.es
 additioapp.com
 alexiaeducacion.com
-s3.amazonaws.com
 vimeocdn.com
 cloudinary.com
 googlevideo.com
