@@ -118,6 +118,7 @@ cdn.blinklearning.com
 media.pearsoncmg.com
 ajax.googleapis.com
 connect.facebook.net
+profedeele.es
 brave.com
 duckduckgo.com
 ecosia.org
